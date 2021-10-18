@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/LT-LGTime/static/css/main.d85563c6.chunk.css",
+    "main.js": "/LT-LGTime/static/js/main.69f67579.chunk.js",
+    "main.js.map": "/LT-LGTime/static/js/main.69f67579.chunk.js.map",
+    "runtime-main.js": "/LT-LGTime/static/js/runtime-main.60b34f74.js",
+    "runtime-main.js.map": "/LT-LGTime/static/js/runtime-main.60b34f74.js.map",
+    "static/js/2.a311df2d.chunk.js": "/LT-LGTime/static/js/2.a311df2d.chunk.js",
+    "static/js/2.a311df2d.chunk.js.map": "/LT-LGTime/static/js/2.a311df2d.chunk.js.map",
+    "index.html": "/LT-LGTime/index.html",
+    "static/css/main.d85563c6.chunk.css.map": "/LT-LGTime/static/css/main.d85563c6.chunk.css.map",
+    "static/js/2.a311df2d.chunk.js.LICENSE.txt": "/LT-LGTime/static/js/2.a311df2d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60b34f74.js",
+    "static/js/2.a311df2d.chunk.js",
+    "static/css/main.d85563c6.chunk.css",
+    "static/js/main.69f67579.chunk.js"
+  ]
+}
